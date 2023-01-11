@@ -1,5 +1,5 @@
-# my_idea_Vali-tool!
-[1](https://user-images.githubusercontent.com/62492737/211729703-0c34b8c4-80cf-4564-a663-2c60dad169bd.png)
+# my_idea_Vali-tool
+![1](https://user-images.githubusercontent.com/62492737/211729703-0c34b8c4-80cf-4564-a663-2c60dad169bd.png)
 
 
 The world of cybersecurity is constantly evolving, and new threats are emerging every day. Hackers are becoming increasingly sophisticated in their methods, and traditional security measures are no longer enough to protect against the latest attacks. One solution that has recently gained traction is the use of a high-security server known as "Vali".
